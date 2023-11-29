@@ -14,5 +14,7 @@ int main() {
         int the_result = abs(boys_Not_in_Group - girls_Not_in_Group);
         cout << the_result << endl;
 	}
+	
+// 
 	return 0;
 }
